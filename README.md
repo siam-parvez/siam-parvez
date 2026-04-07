@@ -1,4 +1,23 @@
-## Interested In
+<h1 align="center">
+  <b>Welcome To Siam Parvez's Profile!</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20UI%2FUX%20Designer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=25AEF3&vCenter=true&size=25">
+</p>
+
+<div align="center">
+  < 👀 I’m interested in new and creative application development. /><br>
+  < 💞️ I’m looking to collaborate on awesome projects! /><br>
+  < 📫 Contact me - <a href="mailto:hello@siamparvez.com">hello@siamparvez.com</a> />
+<br>
+<br>
+
+<br>
+<div align="center">
+
+## My Languages and Tools
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -20,4 +39,9 @@
 ![](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+</div>
+<br>
+
+<div align="right">
+<a href="https://visitorbadge.io/status?path=siamparvez44"><img src="https://api.visitorbadge.io/api/visitors?path=siamparvez44&label=Visitors&labelColor=%23697689&countColor=%232ccce4"></a>
 </div>
