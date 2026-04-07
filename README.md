@@ -9,9 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?pause=500&color=000000&background=CCFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Next.js+%26+TypeScript+Expert;DevOps+Specialist">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=000000&background=CCFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Next.js+%26+TypeScript+Expert;DevOps+Specialist)](https://git.io/typing-svg)
 
 <div align="center">
   < 👀 I’m interested in new and creative application development. /><br>
