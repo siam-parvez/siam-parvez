@@ -1,10 +1,3 @@
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skill-logos.vercel.app/icons?i=js"" />
-  </a>
-</p>
-
 <h1 align="center">
   <b>Hi there, Welcome To My Profile!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
