@@ -1,15 +1,11 @@
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <h1 align="center">
   <b>Hi there Welcome To My Profile!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=000000&background=CCFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Next.js+%26+TypeScript+Expert;DevOps+Specialist)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=000000&background=CCFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Next.js+%26+TypeScript+Expert;DevOps+Specialist">
+</p>
 
 <div align="center">
   < 👀 I’m interested in new and creative application development. /><br>
