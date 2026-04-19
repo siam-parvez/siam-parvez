@@ -9,7 +9,7 @@
 
 <div align="center">
   < 👀 I’m interested in new and creative application development. /><br>
-  < 💞️ I’m looking to collaborate on awesome projects! /><br>
+  < 💞️ I’m looking to collaborate on scalable projects! /><br>
   < 📫 Contact me - <a href="mailto:hello@siamparvez.com">hello@siamparvez.com</a> />
 <br>
 <br>
